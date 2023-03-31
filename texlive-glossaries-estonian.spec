@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-estonian
 Version:	49928
-Release:	1
+Release:	2
 Summary:	Estonian language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-estonian
